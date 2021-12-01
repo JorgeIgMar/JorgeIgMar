@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JorgeIgMar
-- 👀 I’m interested in Database integration with Java 
+- 👀 I’m interested in Java, Kotlin, Android, MySql, PL/SQL, Hibernate, JDBC, HTML5, Javascript 
 - 🌱 I’m currently learning Java, C#, SQL, PL/SQL, Kotlin, UML
 - 💞️ I’m looking to collaborate on any project that helps me learn and help others learn
 - 📫 How to reach me: my e-mail address jorgeimsistemas@gmail.com
